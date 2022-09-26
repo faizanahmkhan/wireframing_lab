@@ -16,4 +16,4 @@ Using Figma I created a wireframe:
 
 ![Wireframe page 1](wireframe_pg1)
 
-![Wireframe page 1](wireframe_pg2)
+![Wireframe page 2](wireframe_pg2)

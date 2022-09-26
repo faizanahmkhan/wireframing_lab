@@ -12,8 +12,10 @@
 * Then a form asking the email to update the reader of the release
 
 ## Low-Fidelity Wireframe
-Using Figma I created a wireframe:
+Using Figma I created a wireframe
 
+Page 1:
 ![Wireframe page 1](wireframe_pg1)
 
+Page 2:
 ![Wireframe page 2](wireframe_pg2)

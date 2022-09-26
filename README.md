@@ -17,12 +17,3 @@ Using Figma I created a wireframe:
 ![Wireframe page 1](wireframe_pg1)
 
 ![Wireframe page 1](wireframe_pg2)
-
-## Getting the Source Code
-
-MacDown is hosted on GitHub:
-
-https://github.com/MacDownApp/macdown
-
-Here you can get the source code, read through the issues and start contributing.
-

@@ -15,7 +15,7 @@
 Using Figma I created a wireframe
 
 Page 1:
-![Wireframe page 1](wireframe_pg1.png)
+![Wireframe page 1](images/wireframe_pg1.png)
 
 Page 2:
-![Wireframe page 2](wireframe_pg2.png)
+![Wireframe page 2](images/wireframe_pg2.png)
